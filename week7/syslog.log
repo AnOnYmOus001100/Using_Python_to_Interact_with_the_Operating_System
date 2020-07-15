@@ -1,0 +1,1215 @@
+Jan 31 00:09:39 ubuntu.local ticky: INFO Created ticket [#4217] (mdouglas)
+Jan 31 00:16:25 ubuntu.local ticky: INFO Closed ticket [#1754] (noel)
+Jan 31 00:21:30 ubuntu.local ticky: ERROR The ticket was modified while updating (breee)
+Jan 31 00:44:34 ubuntu.local ticky: ERROR Permission denied while closing ticket (ac)
+Jan 31 01:00:50 ubuntu.local ticky: INFO Commented on ticket [#4709] (blossom)
+Jan 31 01:29:16 ubuntu.local ticky: INFO Commented on ticket [#6518] (rr.robinson)
+Jan 31 01:33:12 ubuntu.local ticky: ERROR Tried to add information to closed ticket (mcintosh)
+Jan 31 01:43:10 ubuntu.local ticky: ERROR Tried to add information to closed ticket (jackowens)
+Jan 31 01:49:29 ubuntu.local ticky: ERROR Tried to add information to closed ticket (mdouglas)
+Jan 31 02:30:04 ubuntu.local ticky: ERROR Timeout while retrieving information (oren)
+Jan 31 02:55:31 ubuntu.local ticky: ERROR Ticket doesn't exist (xlg)
+Jan 31 03:05:35 ubuntu.local ticky: ERROR Timeout while retrieving information (ahmed.miller)
+Jan 31 03:08:55 ubuntu.local ticky: ERROR Ticket doesn't exist (blossom)
+Jan 31 03:39:27 ubuntu.local ticky: ERROR The ticket was modified while updating (bpacheco)
+Jan 31 03:47:24 ubuntu.local ticky: ERROR Ticket doesn't exist (enim.non)
+Jan 31 04:30:04 ubuntu.local ticky: ERROR Permission denied while closing ticket (rr.robinson)
+Jan 31 04:31:49 ubuntu.local ticky: ERROR Tried to add information to closed ticket (oren)
+Jan 31 04:32:49 ubuntu.local ticky: ERROR Timeout while retrieving information (mcintosh)
+Jan 31 04:44:23 ubuntu.local ticky: ERROR Timeout while retrieving information (ahmed.miller)
+Jan 31 04:44:46 ubuntu.local ticky: ERROR Connection to DB failed (jackowens)
+Jan 31 04:49:28 ubuntu.local ticky: ERROR Permission denied while closing ticket (flavia)
+Jan 31 05:12:39 ubuntu.local ticky: ERROR Tried to add information to closed ticket (oren)
+Jan 31 05:18:45 ubuntu.local ticky: ERROR Tried to add information to closed ticket (sri)
+Jan 31 05:23:14 ubuntu.local ticky: INFO Commented on ticket [#1097] (breee)
+Jan 31 05:35:00 ubuntu.local ticky: ERROR Connection to DB failed (nonummy)
+Jan 31 05:45:30 ubuntu.local ticky: INFO Created ticket [#7115] (noel)
+Jan 31 05:51:30 ubuntu.local ticky: ERROR The ticket was modified while updating (flavia)
+Jan 31 05:57:46 ubuntu.local ticky: INFO Commented on ticket [#2253] (nonummy)
+Jan 31 06:12:02 ubuntu.local ticky: ERROR Connection to DB failed (oren)
+Jan 31 06:26:38 ubuntu.local ticky: ERROR Timeout while retrieving information (xlg)
+Jan 31 06:32:26 ubuntu.local ticky: INFO Created ticket [#7298] (ahmed.miller)
+Jan 31 06:36:25 ubuntu.local ticky: ERROR Timeout while retrieving information (flavia)
+Jan 31 06:57:00 ubuntu.local ticky: ERROR Connection to DB failed (jackowens)
+Jan 31 06:59:57 ubuntu.local ticky: INFO Commented on ticket [#7255] (oren)
+Jan 31 07:59:56 ubuntu.local ticky: ERROR Ticket doesn't exist (flavia)
+Jan 31 08:01:40 ubuntu.local ticky: ERROR Tried to add information to closed ticket (jackowens)
+Jan 31 08:03:19 ubuntu.local ticky: INFO Closed ticket [#1712] (britanni)
+Jan 31 08:22:37 ubuntu.local ticky: INFO Created ticket [#2860] (mcintosh)
+Jan 31 08:28:07 ubuntu.local ticky: ERROR Timeout while retrieving information (montanap)
+Jan 31 08:49:15 ubuntu.local ticky: ERROR Permission denied while closing ticket (britanni)
+Jan 31 08:50:50 ubuntu.local ticky: ERROR Permission denied while closing ticket (montanap)
+Jan 31 09:04:27 ubuntu.local ticky: ERROR Tried to add information to closed ticket (noel)
+Jan 31 09:15:41 ubuntu.local ticky: ERROR Timeout while retrieving information (oren)
+Jan 31 09:18:47 ubuntu.local ticky: INFO Commented on ticket [#8385] (mdouglas)
+Jan 31 09:28:18 ubuntu.local ticky: INFO Closed ticket [#2452] (jackowens)
+Jan 31 09:41:16 ubuntu.local ticky: ERROR Connection to DB failed (ac)
+Jan 31 10:11:35 ubuntu.local ticky: ERROR Timeout while retrieving information (blossom)
+Jan 31 10:21:36 ubuntu.local ticky: ERROR Permission denied while closing ticket (montanap)
+Jan 31 11:04:02 ubuntu.local ticky: ERROR Tried to add information to closed ticket (breee)
+Jan 31 11:19:37 ubuntu.local ticky: ERROR Connection to DB failed (sri)
+Jan 31 11:22:06 ubuntu.local ticky: ERROR Timeout while retrieving information (montanap)
+Jan 31 11:31:34 ubuntu.local ticky: ERROR Permission denied while closing ticket (ahmed.miller)
+Jan 31 11:40:25 ubuntu.local ticky: ERROR Connection to DB failed (mai.hendrix)
+Jan 31 11:47:07 ubuntu.local ticky: INFO Commented on ticket [#4562] (ac)
+Jan 31 11:58:33 ubuntu.local ticky: ERROR Tried to add information to closed ticket (ahmed.miller)
+Jan 31 12:00:17 ubuntu.local ticky: INFO Created ticket [#7897] (kirknixon)
+Jan 31 12:02:49 ubuntu.local ticky: ERROR Permission denied while closing ticket (mai.hendrix)
+Jan 31 12:20:23 ubuntu.local ticky: ERROR Connection to DB failed (kirknixon)
+Jan 31 12:20:40 ubuntu.local ticky: ERROR Ticket doesn't exist (flavia)
+Jan 31 12:24:32 ubuntu.local ticky: INFO Created ticket [#5784] (sri)
+Jan 31 12:50:10 ubuntu.local ticky: ERROR Permission denied while closing ticket (blossom)
+Jan 31 12:58:16 ubuntu.local ticky: ERROR Tried to add information to closed ticket (nonummy)
+Jan 31 13:08:10 ubuntu.local ticky: INFO Closed ticket [#8685] (rr.robinson)
+Jan 31 13:48:45 ubuntu.local ticky: ERROR The ticket was modified while updating (breee)
+Jan 31 14:13:00 ubuntu.local ticky: INFO Commented on ticket [#4225] (noel)
+Jan 31 14:38:50 ubuntu.local ticky: ERROR The ticket was modified while updating (enim.non)
+Jan 31 14:41:18 ubuntu.local ticky: ERROR Timeout while retrieving information (xlg)
+Jan 31 14:45:55 ubuntu.local ticky: INFO Closed ticket [#7948] (noel)
+Jan 31 14:50:41 ubuntu.local ticky: INFO Commented on ticket [#8628] (noel)
+Jan 31 14:56:35 ubuntu.local ticky: ERROR Tried to add information to closed ticket (noel)
+Jan 31 15:27:53 ubuntu.local ticky: ERROR Ticket doesn't exist (blossom)
+Jan 31 15:28:15 ubuntu.local ticky: ERROR Permission denied while closing ticket (enim.non)
+Jan 31 15:44:25 ubuntu.local ticky: INFO Closed ticket [#7333] (enim.non)
+Jan 31 16:17:20 ubuntu.local ticky: INFO Commented on ticket [#1653] (noel)
+Jan 31 16:19:40 ubuntu.local ticky: ERROR The ticket was modified while updating (mdouglas)
+Jan 31 16:24:31 ubuntu.local ticky: INFO Created ticket [#5455] (ac)
+Jan 31 16:35:46 ubuntu.local ticky: ERROR Timeout while retrieving information (oren)
+Jan 31 16:53:54 ubuntu.local ticky: INFO Commented on ticket [#3813] (mcintosh)
+Jan 31 16:54:18 ubuntu.local ticky: ERROR Connection to DB failed (bpacheco)
+Jan 31 17:15:47 ubuntu.local ticky: ERROR The ticket was modified while updating (mcintosh)
+Jan 31 17:29:11 ubuntu.local ticky: ERROR Connection to DB failed (oren)
+Jan 31 17:51:52 ubuntu.local ticky: INFO Closed ticket [#8604] (mcintosh)
+Jan 31 18:09:17 ubuntu.local ticky: ERROR The ticket was modified while updating (noel)
+Jan 31 18:43:01 ubuntu.local ticky: ERROR Ticket doesn't exist (nonummy)
+Jan 31 19:00:23 ubuntu.local ticky: ERROR Timeout while retrieving information (blossom)
+Jan 31 19:20:22 ubuntu.local ticky: ERROR Timeout while retrieving information (mai.hendrix)
+Jan 31 19:59:06 ubuntu.local ticky: INFO Created ticket [#6361] (enim.non)
+Jan 31 20:02:41 ubuntu.local ticky: ERROR Timeout while retrieving information (xlg)
+Jan 31 20:21:55 ubuntu.local ticky: INFO Commented on ticket [#7159] (ahmed.miller)
+Jan 31 20:28:26 ubuntu.local ticky: ERROR Connection to DB failed (breee)
+Jan 31 20:35:17 ubuntu.local ticky: INFO Created ticket [#7737] (nonummy)
+Jan 31 20:48:02 ubuntu.local ticky: ERROR Connection to DB failed (mdouglas)
+Jan 31 20:56:58 ubuntu.local ticky: INFO Closed ticket [#4372] (oren)
+Jan 31 21:00:23 ubuntu.local ticky: INFO Commented on ticket [#2389] (sri)
+Jan 31 21:02:06 ubuntu.local ticky: ERROR Connection to DB failed (breee)
+Jan 31 21:20:33 ubuntu.local ticky: INFO Closed ticket [#3297] (kirknixon)
+Jan 31 21:29:24 ubuntu.local ticky: ERROR The ticket was modified while updating (blossom)
+Jan 31 22:58:55 ubuntu.local ticky: INFO Created ticket [#2461] (jackowens)
+Jan 31 23:25:18 ubuntu.local ticky: INFO Closed ticket [#9876] (blossom)
+Jan 31 23:35:40 ubuntu.local ticky: INFO Created ticket [#5896] (mcintosh)
+student-01-a627e4a17632@linux-instance:~$ grep ticky syslog.log
+Jan 31 00:09:39 ubuntu.local ticky: INFO Created ticket [#4217] (mdouglas)
+Jan 31 00:16:25 ubuntu.local ticky: INFO Closed ticket [#1754] (noel)
+Jan 31 00:21:30 ubuntu.local ticky: ERROR The ticket was modified while updating (breee)
+Jan 31 00:44:34 ubuntu.local ticky: ERROR Permission denied while closing ticket (ac)
+Jan 31 01:00:50 ubuntu.local ticky: INFO Commented on ticket [#4709] (blossom)
+Jan 31 01:29:16 ubuntu.local ticky: INFO Commented on ticket [#6518] (rr.robinson)
+Jan 31 01:33:12 ubuntu.local ticky: ERROR Tried to add information to closed ticket (mcintosh)
+Jan 31 01:43:10 ubuntu.local ticky: ERROR Tried to add information to closed ticket (jackowens)
+Jan 31 01:49:29 ubuntu.local ticky: ERROR Tried to add information to closed ticket (mdouglas)
+Jan 31 02:30:04 ubuntu.local ticky: ERROR Timeout while retrieving information (oren)
+Jan 31 02:55:31 ubuntu.local ticky: ERROR Ticket doesn't exist (xlg)
+Jan 31 03:05:35 ubuntu.local ticky: ERROR Timeout while retrieving information (ahmed.miller)
+Jan 31 03:08:55 ubuntu.local ticky: ERROR Ticket doesn't exist (blossom)
+Jan 31 03:39:27 ubuntu.local ticky: ERROR The ticket was modified while updating (bpacheco)
+Jan 31 03:47:24 ubuntu.local ticky: ERROR Ticket doesn't exist (enim.non)
+Jan 31 04:30:04 ubuntu.local ticky: ERROR Permission denied while closing ticket (rr.robinson)
+Jan 31 04:31:49 ubuntu.local ticky: ERROR Tried to add information to closed ticket (oren)
+Jan 31 04:32:49 ubuntu.local ticky: ERROR Timeout while retrieving information (mcintosh)
+Jan 31 04:44:23 ubuntu.local ticky: ERROR Timeout while retrieving information (ahmed.miller)
+Jan 31 04:44:46 ubuntu.local ticky: ERROR Connection to DB failed (jackowens)
+Jan 31 04:49:28 ubuntu.local ticky: ERROR Permission denied while closing ticket (flavia)
+Jan 31 05:12:39 ubuntu.local ticky: ERROR Tried to add information to closed ticket (oren)
+Jan 31 05:18:45 ubuntu.local ticky: ERROR Tried to add information to closed ticket (sri)
+Jan 31 05:23:14 ubuntu.local ticky: INFO Commented on ticket [#1097] (breee)
+Jan 31 05:35:00 ubuntu.local ticky: ERROR Connection to DB failed (nonummy)
+Jan 31 05:45:30 ubuntu.local ticky: INFO Created ticket [#7115] (noel)
+Jan 31 05:51:30 ubuntu.local ticky: ERROR The ticket was modified while updating (flavia)
+Jan 31 05:57:46 ubuntu.local ticky: INFO Commented on ticket [#2253] (nonummy)
+Jan 31 06:12:02 ubuntu.local ticky: ERROR Connection to DB failed (oren)
+Jan 31 06:26:38 ubuntu.local ticky: ERROR Timeout while retrieving information (xlg)
+Jan 31 06:32:26 ubuntu.local ticky: INFO Created ticket [#7298] (ahmed.miller)
+Jan 31 06:36:25 ubuntu.local ticky: ERROR Timeout while retrieving information (flavia)
+Jan 31 06:57:00 ubuntu.local ticky: ERROR Connection to DB failed (jackowens)
+Jan 31 06:59:57 ubuntu.local ticky: INFO Commented on ticket [#7255] (oren)
+Jan 31 07:59:56 ubuntu.local ticky: ERROR Ticket doesn't exist (flavia)
+Jan 31 08:01:40 ubuntu.local ticky: ERROR Tried to add information to closed ticket (jackowens)
+Jan 31 08:03:19 ubuntu.local ticky: INFO Closed ticket [#1712] (britanni)
+Jan 31 08:22:37 ubuntu.local ticky: INFO Created ticket [#2860] (mcintosh)
+Jan 31 08:28:07 ubuntu.local ticky: ERROR Timeout while retrieving information (montanap)
+Jan 31 08:49:15 ubuntu.local ticky: ERROR Permission denied while closing ticket (britanni)
+Jan 31 08:50:50 ubuntu.local ticky: ERROR Permission denied while closing ticket (montanap)
+Jan 31 09:04:27 ubuntu.local ticky: ERROR Tried to add information to closed ticket (noel)
+Jan 31 09:15:41 ubuntu.local ticky: ERROR Timeout while retrieving information (oren)
+Jan 31 09:18:47 ubuntu.local ticky: INFO Commented on ticket [#8385] (mdouglas)
+Jan 31 09:28:18 ubuntu.local ticky: INFO Closed ticket [#2452] (jackowens)
+Jan 31 09:41:16 ubuntu.local ticky: ERROR Connection to DB failed (ac)
+Jan 31 10:11:35 ubuntu.local ticky: ERROR Timeout while retrieving information (blossom)
+Jan 31 10:21:36 ubuntu.local ticky: ERROR Permission denied while closing ticket (montanap)
+Jan 31 11:04:02 ubuntu.local ticky: ERROR Tried to add information to closed ticket (breee)
+Jan 31 11:19:37 ubuntu.local ticky: ERROR Connection to DB failed (sri)
+Jan 31 11:22:06 ubuntu.local ticky: ERROR Timeout while retrieving information (montanap)
+Jan 31 11:31:34 ubuntu.local ticky: ERROR Permission denied while closing ticket (ahmed.miller)
+Jan 31 11:40:25 ubuntu.local ticky: ERROR Connection to DB failed (mai.hendrix)
+Jan 31 11:47:07 ubuntu.local ticky: INFO Commented on ticket [#4562] (ac)
+Jan 31 11:58:33 ubuntu.local ticky: ERROR Tried to add information to closed ticket (ahmed.miller)
+Jan 31 12:00:17 ubuntu.local ticky: INFO Created ticket [#7897] (kirknixon)
+Jan 31 12:02:49 ubuntu.local ticky: ERROR Permission denied while closing ticket (mai.hendrix)
+Jan 31 12:20:23 ubuntu.local ticky: ERROR Connection to DB failed (kirknixon)
+Jan 31 12:20:40 ubuntu.local ticky: ERROR Ticket doesn't exist (flavia)
+Jan 31 12:24:32 ubuntu.local ticky: INFO Created ticket [#5784] (sri)
+Jan 31 12:50:10 ubuntu.local ticky: ERROR Permission denied while closing ticket (blossom)
+Jan 31 12:58:16 ubuntu.local ticky: ERROR Tried to add information to closed ticket (nonummy)
+Jan 31 13:08:10 ubuntu.local ticky: INFO Closed ticket [#8685] (rr.robinson)
+Jan 31 13:48:45 ubuntu.local ticky: ERROR The ticket was modified while updating (breee)
+Jan 31 14:13:00 ubuntu.local ticky: INFO Commented on ticket [#4225] (noel)
+Jan 31 14:38:50 ubuntu.local ticky: ERROR The ticket was modified while updating (enim.non)
+Jan 31 14:41:18 ubuntu.local ticky: ERROR Timeout while retrieving information (xlg)
+Jan 31 14:45:55 ubuntu.local ticky: INFO Closed ticket [#7948] (noel)
+Jan 31 14:50:41 ubuntu.local ticky: INFO Commented on ticket [#8628] (noel)
+Jan 31 14:56:35 ubuntu.local ticky: ERROR Tried to add information to closed ticket (noel)
+Jan 31 15:27:53 ubuntu.local ticky: ERROR Ticket doesn't exist (blossom)
+Jan 31 15:28:15 ubuntu.local ticky: ERROR Permission denied while closing ticket (enim.non)
+Jan 31 15:44:25 ubuntu.local ticky: INFO Closed ticket [#7333] (enim.non)
+Jan 31 16:17:20 ubuntu.local ticky: INFO Commented on ticket [#1653] (noel)
+Jan 31 16:19:40 ubuntu.local ticky: ERROR The ticket was modified while updating (mdouglas)
+Jan 31 16:24:31 ubuntu.local ticky: INFO Created ticket [#5455] (ac)
+Jan 31 16:35:46 ubuntu.local ticky: ERROR Timeout while retrieving information (oren)
+Jan 31 16:53:54 ubuntu.local ticky: INFO Commented on ticket [#3813] (mcintosh)
+Jan 31 16:54:18 ubuntu.local ticky: ERROR Connection to DB failed (bpacheco)
+Jan 31 17:15:47 ubuntu.local ticky: ERROR The ticket was modified while updating (mcintosh)
+Jan 31 17:29:11 ubuntu.local ticky: ERROR Connection to DB failed (oren)
+Jan 31 17:51:52 ubuntu.local ticky: INFO Closed ticket [#8604] (mcintosh)
+Jan 31 18:09:17 ubuntu.local ticky: ERROR The ticket was modified while updating (noel)
+Jan 31 18:43:01 ubuntu.local ticky: ERROR Ticket doesn't exist (nonummy)
+Jan 31 19:00:23 ubuntu.local ticky: ERROR Timeout while retrieving information (blossom)
+Jan 31 19:20:22 ubuntu.local ticky: ERROR Timeout while retrieving information (mai.hendrix)
+Jan 31 19:59:06 ubuntu.local ticky: INFO Created ticket [#6361] (enim.non)
+Jan 31 20:02:41 ubuntu.local ticky: ERROR Timeout while retrieving information (xlg)
+Jan 31 20:21:55 ubuntu.local ticky: INFO Commented on ticket [#7159] (ahmed.miller)
+Jan 31 20:28:26 ubuntu.local ticky: ERROR Connection to DB failed (breee)
+Jan 31 20:35:17 ubuntu.local ticky: INFO Created ticket [#7737] (nonummy)
+Jan 31 20:48:02 ubuntu.local ticky: ERROR Connection to DB failed (mdouglas)
+Jan 31 20:56:58 ubuntu.local ticky: INFO Closed ticket [#4372] (oren)
+Jan 31 21:00:23 ubuntu.local ticky: INFO Commented on ticket [#2389] (sri)
+Jan 31 21:02:06 ubuntu.local ticky: ERROR Connection to DB failed (breee)
+Jan 31 21:20:33 ubuntu.local ticky: INFO Closed ticket [#3297] (kirknixon)
+Jan 31 21:29:24 ubuntu.local ticky: ERROR The ticket was modified while updating (blossom)
+Jan 31 22:58:55 ubuntu.local ticky: INFO Created ticket [#2461] (jackowens)
+Jan 31 23:25:18 ubuntu.local ticky: INFO Closed ticket [#9876] (blossom)
+Jan 31 23:35:40 ubuntu.local ticky: INFO Created ticket [#5896] (mcintosh)
+student-01-a627e4a17632@linux-instance:~$ grep "ERROR" syslog.log
+Jan 31 00:21:30 ubuntu.local ticky: ERROR The ticket was modified while updating (breee)
+Jan 31 00:44:34 ubuntu.local ticky: ERROR Permission denied while closing ticket (ac)
+Jan 31 01:33:12 ubuntu.local ticky: ERROR Tried to add information to closed ticket (mcintosh)
+Jan 31 01:43:10 ubuntu.local ticky: ERROR Tried to add information to closed ticket (jackowens)
+Jan 31 01:49:29 ubuntu.local ticky: ERROR Tried to add information to closed ticket (mdouglas)
+Jan 31 02:30:04 ubuntu.local ticky: ERROR Timeout while retrieving information (oren)
+Jan 31 02:55:31 ubuntu.local ticky: ERROR Ticket doesn't exist (xlg)
+Jan 31 03:05:35 ubuntu.local ticky: ERROR Timeout while retrieving information (ahmed.miller)
+Jan 31 03:08:55 ubuntu.local ticky: ERROR Ticket doesn't exist (blossom)
+Jan 31 03:39:27 ubuntu.local ticky: ERROR The ticket was modified while updating (bpacheco)
+Jan 31 03:47:24 ubuntu.local ticky: ERROR Ticket doesn't exist (enim.non)
+Jan 31 04:30:04 ubuntu.local ticky: ERROR Permission denied while closing ticket (rr.robinson)
+Jan 31 04:31:49 ubuntu.local ticky: ERROR Tried to add information to closed ticket (oren)
+Jan 31 04:32:49 ubuntu.local ticky: ERROR Timeout while retrieving information (mcintosh)
+Jan 31 04:44:23 ubuntu.local ticky: ERROR Timeout while retrieving information (ahmed.miller)
+Jan 31 04:44:46 ubuntu.local ticky: ERROR Connection to DB failed (jackowens)
+Jan 31 04:49:28 ubuntu.local ticky: ERROR Permission denied while closing ticket (flavia)
+Jan 31 05:12:39 ubuntu.local ticky: ERROR Tried to add information to closed ticket (oren)
+Jan 31 05:18:45 ubuntu.local ticky: ERROR Tried to add information to closed ticket (sri)
+Jan 31 05:35:00 ubuntu.local ticky: ERROR Connection to DB failed (nonummy)
+Jan 31 05:51:30 ubuntu.local ticky: ERROR The ticket was modified while updating (flavia)
+Jan 31 06:12:02 ubuntu.local ticky: ERROR Connection to DB failed (oren)
+Jan 31 06:26:38 ubuntu.local ticky: ERROR Timeout while retrieving information (xlg)
+Jan 31 06:36:25 ubuntu.local ticky: ERROR Timeout while retrieving information (flavia)
+Jan 31 06:57:00 ubuntu.local ticky: ERROR Connection to DB failed (jackowens)
+Jan 31 07:59:56 ubuntu.local ticky: ERROR Ticket doesn't exist (flavia)
+Jan 31 08:01:40 ubuntu.local ticky: ERROR Tried to add information to closed ticket (jackowens)
+Jan 31 08:28:07 ubuntu.local ticky: ERROR Timeout while retrieving information (montanap)
+Jan 31 08:49:15 ubuntu.local ticky: ERROR Permission denied while closing ticket (britanni)
+Jan 31 08:50:50 ubuntu.local ticky: ERROR Permission denied while closing ticket (montanap)
+Jan 31 09:04:27 ubuntu.local ticky: ERROR Tried to add information to closed ticket (noel)
+Jan 31 09:15:41 ubuntu.local ticky: ERROR Timeout while retrieving information (oren)
+Jan 31 09:41:16 ubuntu.local ticky: ERROR Connection to DB failed (ac)
+Jan 31 10:11:35 ubuntu.local ticky: ERROR Timeout while retrieving information (blossom)
+Jan 31 10:21:36 ubuntu.local ticky: ERROR Permission denied while closing ticket (montanap)
+Jan 31 11:04:02 ubuntu.local ticky: ERROR Tried to add information to closed ticket (breee)
+Jan 31 11:19:37 ubuntu.local ticky: ERROR Connection to DB failed (sri)
+Jan 31 11:22:06 ubuntu.local ticky: ERROR Timeout while retrieving information (montanap)
+Jan 31 11:31:34 ubuntu.local ticky: ERROR Permission denied while closing ticket (ahmed.miller)
+Jan 31 11:40:25 ubuntu.local ticky: ERROR Connection to DB failed (mai.hendrix)
+Jan 31 11:58:33 ubuntu.local ticky: ERROR Tried to add information to closed ticket (ahmed.miller)
+Jan 31 12:02:49 ubuntu.local ticky: ERROR Permission denied while closing ticket (mai.hendrix)
+Jan 31 12:20:23 ubuntu.local ticky: ERROR Connection to DB failed (kirknixon)
+Jan 31 12:20:40 ubuntu.local ticky: ERROR Ticket doesn't exist (flavia)
+Jan 31 12:50:10 ubuntu.local ticky: ERROR Permission denied while closing ticket (blossom)
+Jan 31 12:58:16 ubuntu.local ticky: ERROR Tried to add information to closed ticket (nonummy)
+Jan 31 13:48:45 ubuntu.local ticky: ERROR The ticket was modified while updating (breee)
+Jan 31 14:38:50 ubuntu.local ticky: ERROR The ticket was modified while updating (enim.non)
+Jan 31 14:41:18 ubuntu.local ticky: ERROR Timeout while retrieving information (xlg)
+Jan 31 14:56:35 ubuntu.local ticky: ERROR Tried to add information to closed ticket (noel)
+Jan 31 15:27:53 ubuntu.local ticky: ERROR Ticket doesn't exist (blossom)
+Jan 31 15:28:15 ubuntu.local ticky: ERROR Permission denied while closing ticket (enim.non)
+Jan 31 16:19:40 ubuntu.local ticky: ERROR The ticket was modified while updating (mdouglas)
+Jan 31 16:35:46 ubuntu.local ticky: ERROR Timeout while retrieving information (oren)
+Jan 31 16:54:18 ubuntu.local ticky: ERROR Connection to DB failed (bpacheco)
+Jan 31 17:15:47 ubuntu.local ticky: ERROR The ticket was modified while updating (mcintosh)
+Jan 31 17:29:11 ubuntu.local ticky: ERROR Connection to DB failed (oren)
+Jan 31 18:09:17 ubuntu.local ticky: ERROR The ticket was modified while updating (noel)
+Jan 31 18:43:01 ubuntu.local ticky: ERROR Ticket doesn't exist (nonummy)
+Jan 31 19:00:23 ubuntu.local ticky: ERROR Timeout while retrieving information (blossom)
+Jan 31 19:20:22 ubuntu.local ticky: ERROR Timeout while retrieving information (mai.hendrix)
+Jan 31 20:02:41 ubuntu.local ticky: ERROR Timeout while retrieving information (xlg)
+Jan 31 20:28:26 ubuntu.local ticky: ERROR Connection to DB failed (breee)
+Jan 31 20:48:02 ubuntu.local ticky: ERROR Connection to DB failed (mdouglas)
+Jan 31 21:02:06 ubuntu.local ticky: ERROR Connection to DB failed (breee)
+Jan 31 21:29:24 ubuntu.local ticky: ERROR The ticket was modified while updating (blossom)
+student-01-a627e4a17632@linux-instance:~$ grep "ERROR" syslog.log
+Jan 31 00:21:30 ubuntu.local ticky: ERROR The ticket was modified while updating (breee)
+Jan 31 00:44:34 ubuntu.local ticky: ERROR Permission denied while closing ticket (ac)
+Jan 31 01:33:12 ubuntu.local ticky: ERROR Tried to add information to closed ticket (mcintosh)
+Jan 31 01:43:10 ubuntu.local ticky: ERROR Tried to add information to closed ticket (jackowens)
+Jan 31 01:49:29 ubuntu.local ticky: ERROR Tried to add information to closed ticket (mdouglas)
+Jan 31 02:30:04 ubuntu.local ticky: ERROR Timeout while retrieving information (oren)
+Jan 31 02:55:31 ubuntu.local ticky: ERROR Ticket doesn't exist (xlg)
+Jan 31 03:05:35 ubuntu.local ticky: ERROR Timeout while retrieving information (ahmed.miller)
+Jan 31 03:08:55 ubuntu.local ticky: ERROR Ticket doesn't exist (blossom)
+Jan 31 03:39:27 ubuntu.local ticky: ERROR The ticket was modified while updating (bpacheco)
+Jan 31 03:47:24 ubuntu.local ticky: ERROR Ticket doesn't exist (enim.non)
+Jan 31 04:30:04 ubuntu.local ticky: ERROR Permission denied while closing ticket (rr.robinson)
+Jan 31 04:31:49 ubuntu.local ticky: ERROR Tried to add information to closed ticket (oren)
+Jan 31 04:32:49 ubuntu.local ticky: ERROR Timeout while retrieving information (mcintosh)
+Jan 31 04:44:23 ubuntu.local ticky: ERROR Timeout while retrieving information (ahmed.miller)
+Jan 31 04:44:46 ubuntu.local ticky: ERROR Connection to DB failed (jackowens)
+Jan 31 04:49:28 ubuntu.local ticky: ERROR Permission denied while closing ticket (flavia)
+Jan 31 05:12:39 ubuntu.local ticky: ERROR Tried to add information to closed ticket (oren)
+Jan 31 05:18:45 ubuntu.local ticky: ERROR Tried to add information to closed ticket (sri)
+Jan 31 05:35:00 ubuntu.local ticky: ERROR Connection to DB failed (nonummy)
+Jan 31 05:51:30 ubuntu.local ticky: ERROR The ticket was modified while updating (flavia)
+Jan 31 06:12:02 ubuntu.local ticky: ERROR Connection to DB failed (oren)
+Jan 31 06:26:38 ubuntu.local ticky: ERROR Timeout while retrieving information (xlg)
+Jan 31 06:36:25 ubuntu.local ticky: ERROR Timeout while retrieving information (flavia)
+Jan 31 06:57:00 ubuntu.local ticky: ERROR Connection to DB failed (jackowens)
+Jan 31 07:59:56 ubuntu.local ticky: ERROR Ticket doesn't exist (flavia)
+Jan 31 08:01:40 ubuntu.local ticky: ERROR Tried to add information to closed ticket (jackowens)
+Jan 31 08:28:07 ubuntu.local ticky: ERROR Timeout while retrieving information (montanap)
+Jan 31 08:49:15 ubuntu.local ticky: ERROR Permission denied while closing ticket (britanni)
+Jan 31 08:50:50 ubuntu.local ticky: ERROR Permission denied while closing ticket (montanap)
+Jan 31 09:04:27 ubuntu.local ticky: ERROR Tried to add information to closed ticket (noel)
+Jan 31 09:15:41 ubuntu.local ticky: ERROR Timeout while retrieving information (oren)
+Jan 31 09:41:16 ubuntu.local ticky: ERROR Connection to DB failed (ac)
+Jan 31 10:11:35 ubuntu.local ticky: ERROR Timeout while retrieving information (blossom)
+Jan 31 10:21:36 ubuntu.local ticky: ERROR Permission denied while closing ticket (montanap)
+Jan 31 11:04:02 ubuntu.local ticky: ERROR Tried to add information to closed ticket (breee)
+Jan 31 11:19:37 ubuntu.local ticky: ERROR Connection to DB failed (sri)
+Jan 31 11:22:06 ubuntu.local ticky: ERROR Timeout while retrieving information (montanap)
+Jan 31 11:31:34 ubuntu.local ticky: ERROR Permission denied while closing ticket (ahmed.miller)
+Jan 31 11:40:25 ubuntu.local ticky: ERROR Connection to DB failed (mai.hendrix)
+Jan 31 11:58:33 ubuntu.local ticky: ERROR Tried to add information to closed ticket (ahmed.miller)
+Jan 31 12:02:49 ubuntu.local ticky: ERROR Permission denied while closing ticket (mai.hendrix)
+Jan 31 12:20:23 ubuntu.local ticky: ERROR Connection to DB failed (kirknixon)
+Jan 31 12:20:40 ubuntu.local ticky: ERROR Ticket doesn't exist (flavia)
+Jan 31 12:50:10 ubuntu.local ticky: ERROR Permission denied while closing ticket (blossom)
+Jan 31 12:58:16 ubuntu.local ticky: ERROR Tried to add information to closed ticket (nonummy)
+Jan 31 13:48:45 ubuntu.local ticky: ERROR The ticket was modified while updating (breee)
+Jan 31 14:38:50 ubuntu.local ticky: ERROR The ticket was modified while updating (enim.non)
+Jan 31 14:41:18 ubuntu.local ticky: ERROR Timeout while retrieving information (xlg)
+Jan 31 14:56:35 ubuntu.local ticky: ERROR Tried to add information to closed ticket (noel)
+Jan 31 15:27:53 ubuntu.local ticky: ERROR Ticket doesn't exist (blossom)
+Jan 31 15:28:15 ubuntu.local ticky: ERROR Permission denied while closing ticket (enim.non)
+Jan 31 16:19:40 ubuntu.local ticky: ERROR The ticket was modified while updating (mdouglas)
+Jan 31 16:35:46 ubuntu.local ticky: ERROR Timeout while retrieving information (oren)
+Jan 31 16:54:18 ubuntu.local ticky: ERROR Connection to DB failed (bpacheco)
+Jan 31 17:15:47 ubuntu.local ticky: ERROR The ticket was modified while updating (mcintosh)
+Jan 31 17:29:11 ubuntu.local ticky: ERROR Connection to DB failed (oren)
+Jan 31 18:09:17 ubuntu.local ticky: ERROR The ticket was modified while updating (noel)
+Jan 31 18:43:01 ubuntu.local ticky: ERROR Ticket doesn't exist (nonummy)
+Jan 31 19:00:23 ubuntu.local ticky: ERROR Timeout while retrieving information (blossom)
+Jan 31 19:20:22 ubuntu.local ticky: ERROR Timeout while retrieving information (mai.hendrix)
+Jan 31 20:02:41 ubuntu.local ticky: ERROR Timeout while retrieving information (xlg)
+Jan 31 20:28:26 ubuntu.local ticky: ERROR Connection to DB failed (breee)
+Jan 31 20:48:02 ubuntu.local ticky: ERROR Connection to DB failed (mdouglas)
+Jan 31 21:02:06 ubuntu.local ticky: ERROR Connection to DB failed (breee)
+Jan 31 21:29:24 ubuntu.local ticky: ERROR The ticket was modified while updating (blossom)
+student-01-a627e4a17632@linux-instance:~$ grep "ERROR Tried to add information to closed ticket" syslog.log
+Jan 31 01:33:12 ubuntu.local ticky: ERROR Tried to add information to closed ticket (mcintosh)
+Jan 31 01:43:10 ubuntu.local ticky: ERROR Tried to add information to closed ticket (jackowens)
+Jan 31 01:49:29 ubuntu.local ticky: ERROR Tried to add information to closed ticket (mdouglas)
+Jan 31 04:31:49 ubuntu.local ticky: ERROR Tried to add information to closed ticket (oren)
+Jan 31 05:12:39 ubuntu.local ticky: ERROR Tried to add information to closed ticket (oren)
+Jan 31 05:18:45 ubuntu.local ticky: ERROR Tried to add information to closed ticket (sri)
+Jan 31 08:01:40 ubuntu.local ticky: ERROR Tried to add information to closed ticket (jackowens)
+Jan 31 09:04:27 ubuntu.local ticky: ERROR Tried to add information to closed ticket (noel)
+Jan 31 11:04:02 ubuntu.local ticky: ERROR Tried to add information to closed ticket (breee)
+Jan 31 11:58:33 ubuntu.local ticky: ERROR Tried to add information to closed ticket (ahmed.miller)
+Jan 31 12:58:16 ubuntu.local ticky: ERROR Tried to add information to closed ticket (nonummy)
+Jan 31 14:56:35 ubuntu.local ticky: ERROR Tried to add information to closed ticket (noel)
+student-01-a627e4a17632@linux-instance:~$ python3
+Python 3.5.3 (default, Sep 27 2018, 17:25:39) 
+[GCC 6.3.0 20170516] on linux
+Type "help", "copyright", "credits" or "license" for more information.
+>>> import re
+>>> line = "May 27 11:45:40 ubuntu.local ticky: INFO: Created ticket [#1234] (username)"
+>>> re.search(r"ticky: INFO: ([\w ]*) ", line)
+<_sre.SRE_Match object; span=(29, 57), match='ticky: INFO: Created ticket '>
+>>> line = "May 27 11:45:40 ubuntu.local ticky: ERROR: Error creating ticket [#1234] (username)"
+>>> re.search(r"ticky: ERROR: ([\w ]*) ", line)
+<_sre.SRE_Match object; span=(29, 65), match='ticky: ERROR: Error creating ticket '>
+>>> fruit = {"oranges": 3, "apples": 5, "bananas": 7, "pears": 2}
+>>> sorted(fruit.items())
+[('apples', 5), ('bananas', 7), ('oranges', 3), ('pears', 2)]
+>>> import operator
+>>> sorted(fruit.items(), key=operator.itemgetter(0))
+[('apples', 5), ('bananas', 7), ('oranges', 3), ('pears', 2)]
+>>> sorted(fruit.items(), key=operator.itemgetter(1))
+[('pears', 2), ('oranges', 3), ('apples', 5), ('bananas', 7)]
+>>> sorted(fruit.items(), key = operator.itemgetter(1), reverse=True)
+[('bananas', 7), ('apples', 5), ('oranges', 3), ('pears', 2)]
+>>> exit()
+student-01-a627e4a17632@linux-instance:~$ nano user_emails.csv
+student-01-a627e4a17632@linux-instance:~$ sudo chmod +x csv_to_html.py
+student-01-a627e4a17632@linux-instance:~$ ls
+csv_to_html.py  syslog.log  user_emails.csv
+student-01-a627e4a17632@linux-instance:~$ cat csv_to_html.py 
+#!/usr/bin/env python3
+import sys
+import csv
+import os
+
+def process_csv(csv_file):
+    """Turn the contents of the CSV file into a list of lists"""
+    print("Processing {}".format(csv_file))
+    with open(csv_file,"r") as datafile:
+        data = list(csv.reader(datafile))
+    return data
+    
+def data_to_html(title, data):
+    """Turns a list of lists into an HTML table"""
+
+    # HTML Headers
+    html_content = """
+<html>
+<head>
+<style>
+table {
+  width: 25%;
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+}
+
+tr:nth-child(odd) {
+  background-color: #dddddd;
+}
+
+td, th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
+</style>
+</head>
+<body>
+"""
+
+
+    # Add the header part with the given title
+    html_content += "<h2>{}</h2><table>".format(title)
+
+    # Add each row in data as a row in the table
+    # The first line is special and gets treated separately
+    for i, row in enumerate(data):
+        html_content += "<tr>"
+        for column in row:
+            if i == 0:
+                html_content += "<th>{}</th>".format(column)
+            else:
+                html_content += "<td>{}</td>".format(column)
+        html_content += "</tr>"
+
+    html_content += """</tr></table></body></html>"""
+    return html_content
+
+
+def write_html_file(html_string, html_file):
+
+    # Making a note of whether the html file we're writing exists or not
+    if os.path.exists(html_file):
+        print("{} already exists. Overwriting...".format(html_file))
+
+    with open(html_file,'w') as htmlfile:
+        htmlfile.write(html_string)
+    print("Table succesfully written to {}".format(html_file))
+
+def main():
+    """Verifies the arguments and then calls the processing function"""
+    # Check that command-line arguments are included
+    if len(sys.argv) < 3:
+        print("ERROR: Missing command-line argument!")
+        print("Exiting program...")
+        sys.exit(1)
+    
+    # Open the files
+    csv_file = sys.argv[1]
+    html_file = sys.argv[2]
+    
+    # Check that file extensions are included
+    if ".csv" not in csv_file:
+        print('Missing ".csv" file extension from first command-line argument!')
+        print("Exiting program...")
+        sys.exit(1)
+    
+    if ".html" not in html_file:
+        print('Missing ".html" file extension from second command-line argument!')
+        print("Exiting program...")
+        sys.exit(1)
+    
+    # Check that the csv file exists
+    if not os.path.exists(csv_file):
+        print("{} does not exist".format(csv_file))
+        print("Exiting program...")
+        sys.exit(1)
+
+    # Process the data and turn it into an HTML
+    data = process_csv(csv_file)
+    title = os.path.splitext(os.path.basename(csv_file))[0].replace("_", " ").title()
+    html_string = data_to_html(title, data)
+    write_html_file(html_string, html_file)
+
+if __name__ == "__main__":
+    main()
+student-01-a627e4a17632@linux-instance:~$ sudo chmod  o+w /var/www/html
+student-01-a627e4a17632@linux-instance:~$ ./csv_to_html.py user_emails.csv /var/www/html/<html-filename>.html
+-bash: html-filename: No such file or directory
+student-01-a627e4a17632@linux-instance:~$ ./csv_to_html.py user_emails.csv /var/www/html/myfile.html
+Processing user_emails.csv
+Table succesfully written to /var/www/html/myfile.html
+student-01-a627e4a17632@linux-instance:~$ ls /var/www/html
+index.nginx-debian.html  myfile.html
+student-01-a627e4a17632@linux-instance:~$ cat myfile.html
+cat: myfile.html: No such file or directory
+student-01-a627e4a17632@linux-instance:~$ ls
+csv_to_html.py  syslog.log  user_emails.csv
+student-01-a627e4a17632@linux-instance:~$ cd /var/www/html
+student-01-a627e4a17632@linux-instance:/var/www/html$ cat myfile.html 
+
+<html>
+<head>
+<style>
+table {
+  width: 25%;
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+}
+
+tr:nth-child(odd) {
+  background-color: #dddddd;
+}
+
+td, th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
+</style>
+</head>
+<body>
+<h2>User Emails</h2><table><tr><th>Full Name</th><th> Email Address</th></tr><tr><td>Blossom Gill</td><td> blossom@abc.edu</td></tr><tr><td>Hayes Delgado</td><td> nonummy@utnisia.com</td></tr><tr><td>Petra Jones</td><td> ac@abc.edu</td></tr><tr><td>Oleg Noel</td><td> noel@liberomauris.ca</td></tr><tr><td>Ahmed Miller</td><td> ahmed.miller@nequenonquam.co.uk</td></tr><tr><td>Macaulay Douglas</td><td> mdouglas@abc.edu</td></tr><tr><td>Aurora Grant</td><td> enim.non@abc.edu</td></tr><tr><td>Madison Mcintosh</td><td> mcintosh@nisiaenean.net</td></tr><tr><td>Montana Powell</td><td> montanap@semmagna.org</td></tr><tr><td>Rogan Robinson</td><td> rr.robinson@abc.edu</td></tr><tr><td>Simon Rivera</td><td> sri@abc.edu</td></tr><tr><td>Benedict Pacheco</td><td> bpacheco@abc.edu</td></tr><tr><td>Maisie Hendrix</td><td> mai.hendrix@abc.edu</td></tr><tr><td>Xaviera Gould</td><td> xlg@utnisia.net</td></tr><tr><td>Oren Rollins</td><td> oren@semmagna.com</td></tr><tr><td>Flavia Santiago</td><td> flavia@utnisia.net</td></tr><tr><td>Jackson Owens</td><td> jackowens@abc.edu</td></tr><tr><td>Britanni Humphrey</td><td> britanni@ut.net</td></tr><tr><td>Kirk Nixon</td><td> kirknixon@abc.edu</td></tr><tr><td>Bree Campbell</td><td> breee@utnisia.net</td></tr><tr></tr></tr></table></body></html>student-01-a627e4a17632@linux-instance:/var/www/html$ nano ticky_check.py
+student-01-a627e4a17632@linux-instance:/var/www/html$ chmod +x ticky_check.py
+student-01-a627e4a17632@linux-instance:/var/www/html$ ./ticky_check.py
+Traceback (most recent call last):
+  File "./ticky_check.py", line 28, in <module>
+    log_file = sys.argv[1]
+IndexError: list index out of range
+student-01-a627e4a17632@linux-instance:/var/www/html$ cd ls
+-bash: cd: ls: No such file or directory
+student-01-a627e4a17632@linux-instance:/var/www/html$ ls
+index.nginx-debian.html  myfile.html  ticky_check.py
+student-01-a627e4a17632@linux-instance:/var/www/html$ cd ..
+student-01-a627e4a17632@linux-instance:/var/www$ ~/
+csv_to_html.py  .nano/          .ssh/           
+student-01-a627e4a17632@linux-instance:/var/www$ ~/
+csv_to_html.py  .nano/          .ssh/           
+student-01-a627e4a17632@linux-instance:/var/www$ ~/
+csv_to_html.py  .nano/          .ssh/           
+student-01-a627e4a17632@linux-instance:/var/www$ cd ..
+student-01-a627e4a17632@linux-instance:/var$ cd ..
+student-01-a627e4a17632@linux-instance:/$ ls
+bin   home            lib64       opt   sbin  usr
+boot  initrd.img      lost+found  proc  srv   var
+dev   initrd.img.old  media       root  sys   vmlinuz
+etc   lib             mnt         run   tmp   vmlinuz.old
+student-01-a627e4a17632@linux-instance:/$ cd var/www
+student-01-a627e4a17632@linux-instance:/var/www$ ls
+html
+student-01-a627e4a17632@linux-instance:/var/www$ cd html/
+student-01-a627e4a17632@linux-instance:/var/www/html$ ls
+index.nginx-debian.html  myfile.html  ticky_check.py
+student-01-a627e4a17632@linux-instance:/var/www/html$ cd ~/home
+-bash: cd: /home/student-01-a627e4a17632/home: No such file or directory
+student-01-a627e4a17632@linux-instance:/var/www/html$ cd ..
+student-01-a627e4a17632@linux-instance:/var/www$ cd ..
+student-01-a627e4a17632@linux-instance:/var$ cd ..
+student-01-a627e4a17632@linux-instance:/$ l;s
+-bash: l: command not found
+-bash: s: command not found
+student-01-a627e4a17632@linux-instance:/$ ls
+bin   home            lib64       opt   sbin  usr
+boot  initrd.img      lost+found  proc  srv   var
+dev   initrd.img.old  media       root  sys   vmlinuz
+etc   lib             mnt         run   tmp   vmlinuz.old
+student-01-a627e4a17632@linux-instance:/$ cd home/
+student-01-a627e4a17632@linux-instance:/home$ ls
+student-01-a627e4a17632
+student-01-a627e4a17632@linux-instance:/home$ cd student-01-a627e4a17632/
+student-01-a627e4a17632@linux-instance:~$ ls
+csv_to_html.py  syslog.log  user_emails.csv
+student-01-a627e4a17632@linux-instance:~$ cat csv_to_html.py 
+#!/usr/bin/env python3
+import sys
+import csv
+import os
+
+def process_csv(csv_file):
+    """Turn the contents of the CSV file into a list of lists"""
+    print("Processing {}".format(csv_file))
+    with open(csv_file,"r") as datafile:
+        data = list(csv.reader(datafile))
+    return data
+    
+def data_to_html(title, data):
+    """Turns a list of lists into an HTML table"""
+
+    # HTML Headers
+    html_content = """
+<html>
+<head>
+<style>
+table {
+  width: 25%;
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+}
+
+tr:nth-child(odd) {
+  background-color: #dddddd;
+}
+
+td, th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
+</style>
+</head>
+<body>
+"""
+
+
+    # Add the header part with the given title
+    html_content += "<h2>{}</h2><table>".format(title)
+
+    # Add each row in data as a row in the table
+    # The first line is special and gets treated separately
+    for i, row in enumerate(data):
+        html_content += "<tr>"
+        for column in row:
+            if i == 0:
+                html_content += "<th>{}</th>".format(column)
+            else:
+                html_content += "<td>{}</td>".format(column)
+        html_content += "</tr>"
+
+    html_content += """</tr></table></body></html>"""
+    return html_content
+
+
+def write_html_file(html_string, html_file):
+
+    # Making a note of whether the html file we're writing exists or not
+    if os.path.exists(html_file):
+        print("{} already exists. Overwriting...".format(html_file))
+
+    with open(html_file,'w') as htmlfile:
+        htmlfile.write(html_string)
+    print("Table succesfully written to {}".format(html_file))
+
+def main():
+    """Verifies the arguments and then calls the processing function"""
+    # Check that command-line arguments are included
+    if len(sys.argv) < 3:
+        print("ERROR: Missing command-line argument!")
+        print("Exiting program...")
+        sys.exit(1)
+    
+    # Open the files
+    csv_file = sys.argv[1]
+    html_file = sys.argv[2]
+    
+    # Check that file extensions are included
+    if ".csv" not in csv_file:
+        print('Missing ".csv" file extension from first command-line argument!')
+        print("Exiting program...")
+        sys.exit(1)
+    
+    if ".html" not in html_file:
+        print('Missing ".html" file extension from second command-line argument!')
+        print("Exiting program...")
+        sys.exit(1)
+    
+    # Check that the csv file exists
+    if not os.path.exists(csv_file):
+        print("{} does not exist".format(csv_file))
+        print("Exiting program...")
+        sys.exit(1)
+
+    # Process the data and turn it into an HTML
+    data = process_csv(csv_file)
+    title = os.path.splitext(os.path.basename(csv_file))[0].replace("_", " ").title()
+    html_string = data_to_html(title, data)
+    write_html_file(html_string, html_file)
+
+if __name__ == "__main__":
+    main()
+student-01-a627e4a17632@linux-instance:~$ nano ticky_check.py
+student-01-a627e4a17632@linux-instance:~$ cat ticky_check.py 
+#!/usr/bin/env python3
+import subprocess
+import collections
+import re
+import operator
+import csv
+
+def error_csv():
+	errors = {}
+	with open("syslog.log", "r") as file:
+		for line in file.readlines():
+
+			val = re.search(r"ERROR ([\w ']*)", line)
+			if val:
+				val = val.group(1)[:-1]
+			if val == None:
+				continue
+			if val not in errors:
+				errors[val] = 1
+			else:
+				errors[val] = errors.get(val)+1
+		sorted_errors = collections.orderedDict(sorted(errors.items(), key=operator.itemgetter(1), reverse=True))
+		with open("error_message.csv", "w") as f:
+			writer = csv.DictWriter(f, fieldnames=["Error", "Count"])
+			writer.writeheader()
+			[f.write("{0}, {1}\n".format(key,value)) for key,value in sorted_errors.items()]
+		return sorted_errors
+
+print(error_csv)
+
+def user_csv():
+	userData = {}
+	with open("syslog.log", "r") as file:
+		for line in file.readlines():
+			val=line[line.find("(")+1:line.find(")")]
+			if val not in userdata:
+				userData[val] = [0]*2
+			if line.find("ERROR"):
+				errVal = userData.get(val)[1]+1
+			if line.find("INFO"):
+				infVal = userData.get(Val[0])+1
+			userdata[val] = [infVal, errVal]
+		sorted_userData = collections.orderedDict(sorted(userData.items(), key=operator.itemgetter(0)))
+		with open("user_statistics.csv", "w") as f:
+			[f.write("{0}, {1}\n".format(key,value)) for key,value in sorted_userData.items()]
+		return sorted_userData
+
+print(user_csv())
+student-01-a627e4a17632@linux-instance:~$ chmod +x ticky_check.py
+student-01-a627e4a17632@linux-instance:~$ ./ticky_check.py
+<function error_csv at 0x7efd36215268>
+Traceback (most recent call last):
+  File "./ticky_check.py", line 48, in <module>
+    print(user_csv())
+  File "./ticky_check.py", line 36, in user_csv
+    if val not in userdata:
+NameError: name 'userdata' is not defined
+student-01-a627e4a17632@linux-instance:~$ nano ticky_check.py
+student-01-a627e4a17632@linux-instance:~$ rm ticky_check.py 
+student-01-a627e4a17632@linux-instance:~$ nano ticky_check.py
+student-01-a627e4a17632@linux-instance:~$ chmod +x ticky_check.py
+student-01-a627e4a17632@linux-instance:~$ ./ticky_check.py
+  File "./ticky_check.py", line 20
+    errors[result.group(2) = 0
+                           ^
+SyntaxError: invalid syntax
+student-01-a627e4a17632@linux-instance:~$ nano ticky_check.py
+student-01-a627e4a17632@linux-instance:~$ ./ticky_check.py
+  File "./ticky_check.py", line 28
+    per_user[result.group(3)["INFO"] += 1
+                                      ^
+SyntaxError: invalid syntax
+student-01-a627e4a17632@linux-instance:~$ nano ticky_check.py
+student-01-a627e4a17632@linux-instance:~$ ./ticky_check.py
+  File "./ticky_check.py", line 38
+    file = open(errorfile, 'w')
+       ^
+SyntaxError: invalid syntax
+student-01-a627e4a17632@linux-instance:~$ nano ticky_check.py
+student-01-a627e4a17632@linux-instance:~$ nano ticky_check.py
+student-01-a627e4a17632@linux-instance:~$ ./ticky_check.py
+  File "./ticky_check.py", line 38
+    file = open(errorfile, 'w')
+       ^
+SyntaxError: invalid syntax
+student-01-a627e4a17632@linux-instance:~$ vi ticky_check.py 
+student-01-a627e4a17632@linux-instance:~$ ./ticky_check.py
+  File "./ticky_check.py", line 38
+    file = open(errorfile, 'w')
+       ^
+SyntaxError: invalid syntax
+student-01-a627e4a17632@linux-instance:~$ vi ticky_check.py 
+student-01-a627e4a17632@linux-instance:~$ cat ticky_check.py 
+#!/usr/bin/env python3
+
+import re
+import csv
+import operator
+import sys
+
+per_user = {}
+errors ={}
+
+logfile = 'syslog.log'
+file = open(logfile, 'r')
+
+errorfile = 'eror_message.csv'
+userfile = 'user_statistics.csv'
+
+for log in file:
+	result = re.search(r"ticky: ([\w+\*):? ([\w' ]*) [\[[0-9#]*\]? ?\((.*)\)$", log)
+	if result.group(2) not in errors.keys():
+		errors[result.group(2)] = 0
+	errors[result.group(2)] += 1
+	if result.group(3) not in per_user_keys():
+		per_user[result.group(3)] = {}
+		per_user[result.group(3)]["INFO"] = 0
+		per_user[result.group(3)]["ERROR"] = 0
+
+	if result.group(1) == "INFO":
+		per_user[result.group(3)]["INFO"] += 1
+	elif result.group(1) == "ERROR":
+		per_user[result.group(3)]["ERROR"] += 1
+
+errors = sorted(errors.items(), key = operator.itemgetter(1), reverse  = True)
+per_user = sorted(per_user.items())
+
+file.close()
+errors.insert(0, ('Error', 'Count')
+
+file = open(errorfile, 'w')
+for error in errors:
+	a,b = error
+	file.write(str(a)+','+str(b)+'\n')
+file.close()
+
+file = open(userfile, 'w')
+file.write("Username,INFO,ERROR\n")
+for stats in per_user:
+	a, b = stats
+	f.write(str(a)+','+str(b["INFO"])+','+str(b["ERROR"])+'\n')
+file.close()
+student-01-a627e4a17632@linux-instance:~$ nano ticky_check.py
+student-01-a627e4a17632@linux-instance:~$ ./ticky_check.py
+Traceback (most recent call last):
+  File "./ticky_check.py", line 22, in <module>
+    if result.group(3) not in per_user_keys():
+IndexError: no such group
+student-01-a627e4a17632@linux-instance:~$ vi ticky_check.py 
+student-01-a627e4a17632@linux-instance:~$ ./ticky_check.py
+Traceback (most recent call last):
+  File "./ticky_check.py", line 22, in <module>
+    if result.group(3) not in per_user.keys():
+IndexError: no such group
+student-01-a627e4a17632@linux-instance:~$ vi ticky_check.py 
+student-01-a627e4a17632@linux-instance:~$ ./ticky_check.py
+Traceback (most recent call last):
+  File "./ticky_check.py", line 22, in <module>
+    if result.group(3) not in per_user.keys():
+IndexError: no such group
+student-01-a627e4a17632@linux-instance:~$ ls
+csv_to_html.py  syslog.log  ticky_check.py  user_emails.csv
+student-01-a627e4a17632@linux-instance:~$ cat csv_to_html.py 
+#!/usr/bin/env python3
+import sys
+import csv
+import os
+
+def process_csv(csv_file):
+    """Turn the contents of the CSV file into a list of lists"""
+    print("Processing {}".format(csv_file))
+    with open(csv_file,"r") as datafile:
+        data = list(csv.reader(datafile))
+    return data
+    
+def data_to_html(title, data):
+    """Turns a list of lists into an HTML table"""
+
+    # HTML Headers
+    html_content = """
+<html>
+<head>
+<style>
+table {
+  width: 25%;
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+}
+
+tr:nth-child(odd) {
+  background-color: #dddddd;
+}
+
+td, th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
+</style>
+</head>
+<body>
+"""
+
+
+    # Add the header part with the given title
+    html_content += "<h2>{}</h2><table>".format(title)
+
+    # Add each row in data as a row in the table
+    # The first line is special and gets treated separately
+    for i, row in enumerate(data):
+        html_content += "<tr>"
+        for column in row:
+            if i == 0:
+                html_content += "<th>{}</th>".format(column)
+            else:
+                html_content += "<td>{}</td>".format(column)
+        html_content += "</tr>"
+
+    html_content += """</tr></table></body></html>"""
+    return html_content
+
+
+def write_html_file(html_string, html_file):
+
+    # Making a note of whether the html file we're writing exists or not
+    if os.path.exists(html_file):
+        print("{} already exists. Overwriting...".format(html_file))
+
+    with open(html_file,'w') as htmlfile:
+        htmlfile.write(html_string)
+    print("Table succesfully written to {}".format(html_file))
+
+def main():
+    """Verifies the arguments and then calls the processing function"""
+    # Check that command-line arguments are included
+    if len(sys.argv) < 3:
+        print("ERROR: Missing command-line argument!")
+        print("Exiting program...")
+        sys.exit(1)
+    
+    # Open the files
+    csv_file = sys.argv[1]
+    html_file = sys.argv[2]
+    
+    # Check that file extensions are included
+    if ".csv" not in csv_file:
+        print('Missing ".csv" file extension from first command-line argument!')
+        print("Exiting program...")
+        sys.exit(1)
+    
+    if ".html" not in html_file:
+        print('Missing ".html" file extension from second command-line argument!')
+        print("Exiting program...")
+        sys.exit(1)
+    
+    # Check that the csv file exists
+    if not os.path.exists(csv_file):
+        print("{} does not exist".format(csv_file))
+        print("Exiting program...")
+        sys.exit(1)
+
+    # Process the data and turn it into an HTML
+    data = process_csv(csv_file)
+    title = os.path.splitext(os.path.basename(csv_file))[0].replace("_", " ").title()
+    html_string = data_to_html(title, data)
+    write_html_file(html_string, html_file)
+
+if __name__ == "__main__":
+    main()
+student-01-a627e4a17632@linux-instance:~$ vi ticky_check.py 
+student-01-a627e4a17632@linux-instance:~$ ./ticky_check.py
+Traceback (most recent call last):
+  File "./ticky_check.py", line 48, in <module>
+    f.write(str(a)+','+str(b["INFO"])+','+str(b["ERROR"])+'\n')
+NameError: name 'f' is not defined
+student-01-a627e4a17632@linux-instance:~$ vi ticky_check.py 
+student-01-a627e4a17632@linux-instance:~$ ./ticky_check.py
+student-01-a627e4a17632@linux-instance:~$ cat ticky_check.py 
+#!/usr/bin/env python3
+
+import re
+import csv
+import operator
+import sys
+
+per_user = {}
+errors ={}
+
+logfile = 'syslog.log'
+file = open(logfile, 'r')
+
+errorfile = 'eror_message.csv'
+userfile = 'user_statistics.csv'
+
+for log in file:
+	result = re.search(r"ticky: ([\w+]*):? ([\w' ]*) [\[[0-9#]*\]? ?\((.*)\)$", log)
+	if result.group(2) not in errors.keys():
+		errors[result.group(2)] = 0
+	errors[result.group(2)] += 1
+	if result.group(3) not in per_user.keys():
+		per_user[result.group(3)] = {}
+		per_user[result.group(3)]["INFO"] = 0
+		per_user[result.group(3)]["ERROR"] = 0
+
+	if result.group(1) == "INFO":
+		per_user[result.group(3)]["INFO"] += 1
+	elif result.group(1) == "ERROR":
+		per_user[result.group(3)]["ERROR"] += 1
+
+errors = sorted(errors.items(), key = operator.itemgetter(1), reverse  = True)
+per_user = sorted(per_user.items())
+
+file.close()
+errors.insert(0, ('Error', 'Count'))
+
+file = open(errorfile, 'w')
+for error in errors:
+	a,b = error
+	file.write(str(a)+','+str(b)+'\n')
+file.close()
+
+file = open(userfile, 'w')
+file.write("Username,INFO,ERROR\n")
+for stats in per_user:
+	a, b = stats
+	file.write(str(a)+','+str(b["INFO"])+','+str(b["ERROR"])+'\n')
+file.close()
+student-01-a627e4a17632@linux-instance:~$ ./csv_to_html.py error_message.csv /var/www/html/<html-filename>.html
+-bash: html-filename: No such file or directory
+student-01-a627e4a17632@linux-instance:~$ ls
+csv_to_html.py    syslog.log      user_emails.csv
+eror_message.csv  ticky_check.py  user_statistics.csv
+student-01-a627e4a17632@linux-instance:~$ ./csv_to_html.py error_message.csv /var/www/html/error.html
+error_message.csv does not exist
+Exiting program...
+student-01-a627e4a17632@linux-instance:~$ ls
+csv_to_html.py    syslog.log      user_emails.csv
+eror_message.csv  ticky_check.py  user_statistics.csv
+student-01-a627e4a17632@linux-instance:~$ ./csv_to_html.py error_message.csv /var/www/html/error_file.html
+error_message.csv does not exist
+Exiting program...
+student-01-a627e4a17632@linux-instance:~$ ./csv_to_html.py error_message.csv /var/www/html/error_file.html
+error_message.csv does not exist
+Exiting program...
+student-01-a627e4a17632@linux-instance:~$ ./csv_to_html.py user_statistics.csv /var/www/html/<html-filename>.html
+-bash: html-filename: No such file or directory
+student-01-a627e4a17632@linux-instance:~$ ./csv_to_html.py user_statistics.csv /var/www/html/user_stat.html
+Processing user_statistics.csv
+Table succesfully written to /var/www/html/user_stat.html
+student-01-a627e4a17632@linux-instance:~$ ./csv_to_html.py error_message.csv /var/www/html/error_message.html
+error_message.csv does not exist
+Exiting program...
+student-01-a627e4a17632@linux-instance:~$ ls
+csv_to_html.py    syslog.log      user_emails.csv
+eror_message.csv  ticky_check.py  user_statistics.csv
+student-01-a627e4a17632@linux-instance:~$ cd ..
+student-01-a627e4a17632@linux-instance:/home$ ls
+student-01-a627e4a17632
+student-01-a627e4a17632@linux-instance:/home$ cd ..
+student-01-a627e4a17632@linux-instance:/$ ls
+bin   home            lib64       opt   sbin  usr
+boot  initrd.img      lost+found  proc  srv   var
+dev   initrd.img.old  media       root  sys   vmlinuz
+etc   lib             mnt         run   tmp   vmlinuz.old
+student-01-a627e4a17632@linux-instance:/$ cd /var/
+student-01-a627e4a17632@linux-instance:/var$ ls
+backups  google-sudoers.d  lib    lock  mail  run    tmp
+cache    google-users.d    local  log   opt   spool  www
+student-01-a627e4a17632@linux-instance:/var$ cd www/
+student-01-a627e4a17632@linux-instance:/var/www$ ls
+html
+student-01-a627e4a17632@linux-instance:/var/www$ cd html/
+student-01-a627e4a17632@linux-instance:/var/www/html$ ls
+index.nginx-debian.html  myfile.html  ticky_check.py  user_stat.html
+student-01-a627e4a17632@linux-instance:/var/www/html$ cat user_stat.html 
+
+<html>
+<head>
+<style>
+table {
+  width: 25%;
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+}
+
+tr:nth-child(odd) {
+  background-color: #dddddd;
+}
+
+td, th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
+</style>
+</head>
+<body>
+<h2>User Statistics</h2><table><tr><th>Username</th><th>INFO</th><th>ERROR</th></tr><tr><td>ac</td><td>2</td><td>2</td></tr><tr><td>ahmed.miller</td><td>2</td><td>4</td></tr><tr><td>blossom</td><td>2</td><td>6</td></tr><tr><td>bpacheco</td><td>0</td><td>2</td></tr><tr><td>breee</td><td>1</td><td>5</td></tr><tr><td>britanni</td><td>1</td><td>1</td></tr><tr><td>enim.non</td><td>2</td><td>3</td></tr><tr><td>flavia</td><td>0</td><td>5</td></tr><tr><td>jackowens</td><td>2</td><td>4</td></tr><tr><td>kirknixon</td><td>2</td><td>1</td></tr><tr><td>mai.hendrix</td><td>0</td><td>3</td></tr><tr><td>mcintosh</td><td>4</td><td>3</td></tr><tr><td>mdouglas</td><td>2</td><td>3</td></tr><tr><td>montanap</td><td>0</td><td>4</td></tr><tr><td>noel</td><td>6</td><td>3</td></tr><tr><td>nonummy</td><td>2</td><td>3</td></tr><tr><td>oren</td><td>2</td><td>7</td></tr><tr><td>rr.robinson</td><td>2</td><td>1</td></tr><tr><td>sri</td><td>2</td><td>2</td></tr><tr><td>xlg</td><td>0</td><td>4</td></tr></tr></table></body></html>student-01-a627e4a17632@linux-instance:/var/www/html$ cd ..
+student-01-a627e4a17632@linux-instance:/var/www$ cd ..
+student-01-a627e4a17632@linux-instance:/var$ cd ..
+student-01-a627e4a17632@linux-instance:/$ cd /home/
+student-01-a627e4a17632@linux-instance:/home$ ls
+student-01-a627e4a17632
+student-01-a627e4a17632@linux-instance:/home$ cd student-01-a627e4a17632/
+student-01-a627e4a17632@linux-instance:~$ ls
+csv_to_html.py    syslog.log      user_emails.csv
+eror_message.csv  ticky_check.py  user_statistics.csv
+student-01-a627e4a17632@linux-instance:~$ ./ticky_check.py 
+student-01-a627e4a17632@linux-instance:~$ ls
+csv_to_html.py    syslog.log      user_emails.csv
+eror_message.csv  ticky_check.py  user_statistics.csv
+student-01-a627e4a17632@linux-instance:~$ ./csv_to_html.py error_message.csv /var/www/html/<html-filename>.html
+-bash: html-filename: No such file or directory
+student-01-a627e4a17632@linux-instance:~$ ./csv_to_html.py error_message.csv /var/www/html/err.html
+error_message.csv does not exist
+Exiting program...
+student-01-a627e4a17632@linux-instance:~$ ls
+csv_to_html.py    syslog.log      user_emails.csv
+eror_message.csv  ticky_check.py  user_statistics.csv
+student-01-a627e4a17632@linux-instance:~$ cat error_message.csv
+cat: error_message.csv: No such file or directory
+student-01-a627e4a17632@linux-instance:~$ ./csv_to_html.py eror_message.csv /var/www/html/error.html
+Processing eror_message.csv
+Table succesfully written to /var/www/html/error.html
+student-01-a627e4a17632@linux-instance:~$ vi ticky_check.py 
+student-01-a627e4a17632@linux-instance:~$ ./ticky_check.py 
+student-01-a627e4a17632@linux-instance:~$ ls
+csv_to_html.py    error_message.csv  ticky_check.py   user_statistics.csv
+eror_message.csv  syslog.log         user_emails.csv
+student-01-a627e4a17632@linux-instance:~$ ./csv_to_html.py error_message.csv /var/www/html/error.html
+Processing error_message.csv
+/var/www/html/error.html already exists. Overwriting...
+Table succesfully written to /var/www/html/error.html
+student-01-a627e4a17632@linux-instance:~$ ls
+csv_to_html.py    error_message.csv  ticky_check.py   user_statistics.csv
+eror_message.csv  syslog.log         user_emails.csv
+student-01-a627e4a17632@linux-instance:~$ vi ticky_check.py 
+student-01-a627e4a17632@linux-instance:~$ ./ticky_check.py 
+student-01-a627e4a17632@linux-instance:~$ cat syslog.log
+Jan 31 00:09:39 ubuntu.local ticky: INFO Created ticket [#4217] (mdouglas)
+Jan 31 00:16:25 ubuntu.local ticky: INFO Closed ticket [#1754] (noel)
+Jan 31 00:21:30 ubuntu.local ticky: ERROR The ticket was modified while updating (breee)
+Jan 31 00:44:34 ubuntu.local ticky: ERROR Permission denied while closing ticket (ac)
+Jan 31 01:00:50 ubuntu.local ticky: INFO Commented on ticket [#4709] (blossom)
+Jan 31 01:29:16 ubuntu.local ticky: INFO Commented on ticket [#6518] (rr.robinson)
+Jan 31 01:33:12 ubuntu.local ticky: ERROR Tried to add information to closed ticket (mcintosh)
+Jan 31 01:43:10 ubuntu.local ticky: ERROR Tried to add information to closed ticket (jackowens)
+Jan 31 01:49:29 ubuntu.local ticky: ERROR Tried to add information to closed ticket (mdouglas)
+Jan 31 02:30:04 ubuntu.local ticky: ERROR Timeout while retrieving information (oren)
+Jan 31 02:55:31 ubuntu.local ticky: ERROR Ticket doesn't exist (xlg)
+Jan 31 03:05:35 ubuntu.local ticky: ERROR Timeout while retrieving information (ahmed.miller)
+Jan 31 03:08:55 ubuntu.local ticky: ERROR Ticket doesn't exist (blossom)
+Jan 31 03:39:27 ubuntu.local ticky: ERROR The ticket was modified while updating (bpacheco)
+Jan 31 03:47:24 ubuntu.local ticky: ERROR Ticket doesn't exist (enim.non)
+Jan 31 04:30:04 ubuntu.local ticky: ERROR Permission denied while closing ticket (rr.robinson)
+Jan 31 04:31:49 ubuntu.local ticky: ERROR Tried to add information to closed ticket (oren)
+Jan 31 04:32:49 ubuntu.local ticky: ERROR Timeout while retrieving information (mcintosh)
+Jan 31 04:44:23 ubuntu.local ticky: ERROR Timeout while retrieving information (ahmed.miller)
+Jan 31 04:44:46 ubuntu.local ticky: ERROR Connection to DB failed (jackowens)
+Jan 31 04:49:28 ubuntu.local ticky: ERROR Permission denied while closing ticket (flavia)
+Jan 31 05:12:39 ubuntu.local ticky: ERROR Tried to add information to closed ticket (oren)
+Jan 31 05:18:45 ubuntu.local ticky: ERROR Tried to add information to closed ticket (sri)
+Jan 31 05:23:14 ubuntu.local ticky: INFO Commented on ticket [#1097] (breee)
+Jan 31 05:35:00 ubuntu.local ticky: ERROR Connection to DB failed (nonummy)
+Jan 31 05:45:30 ubuntu.local ticky: INFO Created ticket [#7115] (noel)
+Jan 31 05:51:30 ubuntu.local ticky: ERROR The ticket was modified while updating (flavia)
+Jan 31 05:57:46 ubuntu.local ticky: INFO Commented on ticket [#2253] (nonummy)
+Jan 31 06:12:02 ubuntu.local ticky: ERROR Connection to DB failed (oren)
+Jan 31 06:26:38 ubuntu.local ticky: ERROR Timeout while retrieving information (xlg)
+Jan 31 06:32:26 ubuntu.local ticky: INFO Created ticket [#7298] (ahmed.miller)
+Jan 31 06:36:25 ubuntu.local ticky: ERROR Timeout while retrieving information (flavia)
+Jan 31 06:57:00 ubuntu.local ticky: ERROR Connection to DB failed (jackowens)
+Jan 31 06:59:57 ubuntu.local ticky: INFO Commented on ticket [#7255] (oren)
+Jan 31 07:59:56 ubuntu.local ticky: ERROR Ticket doesn't exist (flavia)
+Jan 31 08:01:40 ubuntu.local ticky: ERROR Tried to add information to closed ticket (jackowens)
+Jan 31 08:03:19 ubuntu.local ticky: INFO Closed ticket [#1712] (britanni)
+Jan 31 08:22:37 ubuntu.local ticky: INFO Created ticket [#2860] (mcintosh)
+Jan 31 08:28:07 ubuntu.local ticky: ERROR Timeout while retrieving information (montanap)
+Jan 31 08:49:15 ubuntu.local ticky: ERROR Permission denied while closing ticket (britanni)
+Jan 31 08:50:50 ubuntu.local ticky: ERROR Permission denied while closing ticket (montanap)
+Jan 31 09:04:27 ubuntu.local ticky: ERROR Tried to add information to closed ticket (noel)
+Jan 31 09:15:41 ubuntu.local ticky: ERROR Timeout while retrieving information (oren)
+Jan 31 09:18:47 ubuntu.local ticky: INFO Commented on ticket [#8385] (mdouglas)
+Jan 31 09:28:18 ubuntu.local ticky: INFO Closed ticket [#2452] (jackowens)
+Jan 31 09:41:16 ubuntu.local ticky: ERROR Connection to DB failed (ac)
+Jan 31 10:11:35 ubuntu.local ticky: ERROR Timeout while retrieving information (blossom)
+Jan 31 10:21:36 ubuntu.local ticky: ERROR Permission denied while closing ticket (montanap)
+Jan 31 11:04:02 ubuntu.local ticky: ERROR Tried to add information to closed ticket (breee)
+Jan 31 11:19:37 ubuntu.local ticky: ERROR Connection to DB failed (sri)
+Jan 31 11:22:06 ubuntu.local ticky: ERROR Timeout while retrieving information (montanap)
+Jan 31 11:31:34 ubuntu.local ticky: ERROR Permission denied while closing ticket (ahmed.miller)
+Jan 31 11:40:25 ubuntu.local ticky: ERROR Connection to DB failed (mai.hendrix)
+Jan 31 11:47:07 ubuntu.local ticky: INFO Commented on ticket [#4562] (ac)
+Jan 31 11:58:33 ubuntu.local ticky: ERROR Tried to add information to closed ticket (ahmed.miller)
+Jan 31 12:00:17 ubuntu.local ticky: INFO Created ticket [#7897] (kirknixon)
+Jan 31 12:02:49 ubuntu.local ticky: ERROR Permission denied while closing ticket (mai.hendrix)
+Jan 31 12:20:23 ubuntu.local ticky: ERROR Connection to DB failed (kirknixon)
+Jan 31 12:20:40 ubuntu.local ticky: ERROR Ticket doesn't exist (flavia)
+Jan 31 12:24:32 ubuntu.local ticky: INFO Created ticket [#5784] (sri)
+Jan 31 12:50:10 ubuntu.local ticky: ERROR Permission denied while closing ticket (blossom)
+Jan 31 12:58:16 ubuntu.local ticky: ERROR Tried to add information to closed ticket (nonummy)
+Jan 31 13:08:10 ubuntu.local ticky: INFO Closed ticket [#8685] (rr.robinson)
+Jan 31 13:48:45 ubuntu.local ticky: ERROR The ticket was modified while updating (breee)
+Jan 31 14:13:00 ubuntu.local ticky: INFO Commented on ticket [#4225] (noel)
+Jan 31 14:38:50 ubuntu.local ticky: ERROR The ticket was modified while updating (enim.non)
+Jan 31 14:41:18 ubuntu.local ticky: ERROR Timeout while retrieving information (xlg)
+Jan 31 14:45:55 ubuntu.local ticky: INFO Closed ticket [#7948] (noel)
+Jan 31 14:50:41 ubuntu.local ticky: INFO Commented on ticket [#8628] (noel)
+Jan 31 14:56:35 ubuntu.local ticky: ERROR Tried to add information to closed ticket (noel)
+Jan 31 15:27:53 ubuntu.local ticky: ERROR Ticket doesn't exist (blossom)
+Jan 31 15:28:15 ubuntu.local ticky: ERROR Permission denied while closing ticket (enim.non)
+Jan 31 15:44:25 ubuntu.local ticky: INFO Closed ticket [#7333] (enim.non)
+Jan 31 16:17:20 ubuntu.local ticky: INFO Commented on ticket [#1653] (noel)
+Jan 31 16:19:40 ubuntu.local ticky: ERROR The ticket was modified while updating (mdouglas)
+Jan 31 16:24:31 ubuntu.local ticky: INFO Created ticket [#5455] (ac)
+Jan 31 16:35:46 ubuntu.local ticky: ERROR Timeout while retrieving information (oren)
+Jan 31 16:53:54 ubuntu.local ticky: INFO Commented on ticket [#3813] (mcintosh)
+Jan 31 16:54:18 ubuntu.local ticky: ERROR Connection to DB failed (bpacheco)
+Jan 31 17:15:47 ubuntu.local ticky: ERROR The ticket was modified while updating (mcintosh)
+Jan 31 17:29:11 ubuntu.local ticky: ERROR Connection to DB failed (oren)
+Jan 31 17:51:52 ubuntu.local ticky: INFO Closed ticket [#8604] (mcintosh)
+Jan 31 18:09:17 ubuntu.local ticky: ERROR The ticket was modified while updating (noel)
+Jan 31 18:43:01 ubuntu.local ticky: ERROR Ticket doesn't exist (nonummy)
+Jan 31 19:00:23 ubuntu.local ticky: ERROR Timeout while retrieving information (blossom)
+Jan 31 19:20:22 ubuntu.local ticky: ERROR Timeout while retrieving information (mai.hendrix)
+Jan 31 19:59:06 ubuntu.local ticky: INFO Created ticket [#6361] (enim.non)
+Jan 31 20:02:41 ubuntu.local ticky: ERROR Timeout while retrieving information (xlg)
+Jan 31 20:21:55 ubuntu.local ticky: INFO Commented on ticket [#7159] (ahmed.miller)
+Jan 31 20:28:26 ubuntu.local ticky: ERROR Connection to DB failed (breee)
+Jan 31 20:35:17 ubuntu.local ticky: INFO Created ticket [#7737] (nonummy)
+Jan 31 20:48:02 ubuntu.local ticky: ERROR Connection to DB failed (mdouglas)
+Jan 31 20:56:58 ubuntu.local ticky: INFO Closed ticket [#4372] (oren)
+Jan 31 21:00:23 ubuntu.local ticky: INFO Commented on ticket [#2389] (sri)
+Jan 31 21:02:06 ubuntu.local ticky: ERROR Connection to DB failed (breee)
+Jan 31 21:20:33 ubuntu.local ticky: INFO Closed ticket [#3297] (kirknixon)
+Jan 31 21:29:24 ubuntu.local ticky: ERROR The ticket was modified while updating (blossom)
+Jan 31 22:58:55 ubuntu.local ticky: INFO Created ticket [#2461] (jackowens)
+Jan 31 23:25:18 ubuntu.local ticky: INFO Closed ticket [#9876] (blossom)
+Jan 31 23:35:40 ubuntu.local ticky: INFO Created ticket [#5896] (mcintosh)
